@@ -1,0 +1,1 @@
+/home/kaffe/Documents/themes/the-one-theme/zsh/TheOne.zsh-theme
